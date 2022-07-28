@@ -1,4 +1,6 @@
 
+--Google Slides here: https://docs.google.com/presentation/d/1MBgbBzHb6xF8hZQCpzkTOF4ifNiRJPPGQCJ_HadNbIk/edit?usp=sharing
+
 --Q1. Which month has the highest count of valid users created?
 --    A valid user is defined as:
 --        Has a Non-Block email address
